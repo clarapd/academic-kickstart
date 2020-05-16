@@ -1,11 +1,11 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Training widget.
+widget = "training"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "Experience"
+title = "Training"
 subtitle = ""
 
 # Date format for experience
@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
