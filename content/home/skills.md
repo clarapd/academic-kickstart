@@ -17,20 +17,39 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Stata"
+  description = ""
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Statistics and data analysis"
+  description = ""
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "English, French, Spanish and Catalan"
+  description = ""
+
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Word, Excel, Power Point and PowerBI"
+  description = ""
+
+[[feature]]
+  icon = "clinic-medical"
+  icon_pack = "fas"
+  name = "Clinical trials management"
+  description = ""
+
+[[feature]]
+  icon = "file-alt"
+  icon_pack = "far"
+  name = "Writing of scientific articles, project proposals, protocols and study procedures"
+  description = ""
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

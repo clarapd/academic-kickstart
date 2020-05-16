@@ -14,7 +14,7 @@ role: Predoctoral researcher, epidemiologist
 
 # Organizations/Affiliations
 organizations:
-- name: Barcelona Institute for Global Health
+- name: Barcelona Institute for Global Health (ISGlobal)
   url: "https://www.isglobal.org"
 
 
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Clara Pons Duran holds a degree in Biomedical Sciences from the Autonomous University of Barcelona (UAB). In 2015, she graduated from the Master of Clinical Research, International Health track, from ISGlobal and the University of Barcelona (UB).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She worked on HIV and socioeconomic status during her master’s thesis, which was then followed by a professional internship in ISGlobals Chagas Initiative. In late 2015, she started working in the Maternal, Reproductive and Child Health Initiative as a Research Assistant under the supervision of Dr. Clara Menéndez.
+
+She led a project about women’s and girls’ health inequalities in sub-Saharan Africa in collaboration with the World Bank, where she also completed two work stays (Washington, DC). Currently, Clara is a predoctoral fellow in the maternal, reproductive and child health research team, and works on women’s and girls inequalities in low- and middle-income countries. She holds a FPU predoctoral scholarship from the Spanish government's Ministry of Education, Science and Sport.

@@ -86,11 +86,11 @@ email = "clara.pons@isglobal.org"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Rosselló 132", city = "Barcelona", postcode = "08036", country = "Spain"}
+address = {street = "ISGlobal, Rosselló 132", city = "08036", postcode = "Barcelona", country = "Spain"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "41.390114", longitude = "2.153275"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -105,9 +105,9 @@ address = {street = "Rosselló 132", city = "Barcelona", postcode = "08036", cou
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ClaraPonsDuran"},
-  {icon = "linkedin", icon_pack = "fab", name = "Skype Me", link = "https://www.linkedin.com/in/clara-pons-duran/"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:clara.pons.duran"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter account", link = "https://twitter.com/ClaraPonsDuran"},
+  {icon = "linkedin", icon_pack = "fab", name = "Linkedin profile", link = "https://www.linkedin.com/in/clara-pons-duran/"},
+  {icon = "skype", icon_pack = "fab", name = "Skype contact", link = "skype:clara.pons.duran"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
