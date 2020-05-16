@@ -57,7 +57,7 @@ social:
   link: https://twitter.com/ClaraPonsDuran
 - icon: google-scholar
   icon_pack: ai
-  link:
+  link: https://scholar.google.com/citations?hl=ca&user=X6qVCUwAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
