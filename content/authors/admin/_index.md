@@ -17,12 +17,6 @@ organizations:
 - name: Barcelona Institute for Global Health
   url: "https://www.isglobal.org"
 
-# Short bio (displayed in user profile at end of posts)
-bio: Clara Pons Duran holds a degree in Biomedical Sciences from the Autonomous University of Barcelona (UAB). In 2015, she graduated from the Master of Clinical Research, International Health track, from ISGlobal and the University of Barcelona (UB).
-
-She worked on HIV and socioeconomic status during her master’s thesis, which was then followed by a professional internship in ISGlobal's Chagas Initiative. In late 2015, she started working in the Maternal, Reproductive and Child Health Initiative as a Research Assistant under the supervision of Dr. Clara Menéndez. She led a project about women’s and girls’ health inequalities in sub-Saharan Africa in collaboration with the World Bank, where she also completed two work stays (Washington, DC).
-
-Currently, Clara is a predoctoral fellow in the maternal, reproductive and child health research team, and works on women’s and girls' inequalities in low- and middle-income countries. She holds a FPU predoctoral scholarship from the Spanish government's Ministry of Education, Science and Sport.
 
 interests:
 - Epidemiology
