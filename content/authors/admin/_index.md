@@ -2,6 +2,9 @@
 # Display name
 title: Clara Pons Duran
 
+bold:
+- ongoing
+
 # Username (this should match the folder name)
 authors:
 - admin
