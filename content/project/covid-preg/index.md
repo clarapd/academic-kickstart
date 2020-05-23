@@ -39,7 +39,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-It is unclear how SARS-CoV-2 affects pregnant women and their offspring, as well as which factors may influence obstetrical disease and outcomes. As a result, this will be a randomized, double blinded, placebo-controlled multicentre trial aiming to assess the effect of hydroxychloroquine (HCQ) in reducing maternal viral load and the efficacy of HCQ to prevent incident SARS-CoV-2 infection. Pregnant women of any gestational age, parity and age, undergoing pre-natal follow up at four maternity hospitals (2 in Barcelona and 2 in Madrid) with a positive PCR test, with our without symptoms of COVID-19 diseases, or who are contacts of a confirmed case and tested negative in the PCR test, will be recruited and randomised 1:1 to receive HCQ orally (400 mg/day for 3 days, followed by 200 mg/day for 11 days) or placebo. Women will be followed up for the duration of the intervention when PCR tests for SARS-CoV-2 will be repeated, and up to delivery, when the pregnancy outcome will be registered, a cord blood sample and a neonatal throat swab will be collected after birth to be tested for SARS-CoV-2.</br>
+It is unclear how SARS-CoV-2 affects pregnant women and their offspring, as well as which factors may influence obstetrical disease and outcomes. </br>
+
+This is a randomized, double-blinded, placebo-controlled multicentre trial aiming to assess the effect of hydroxychloroquine (HCQ) in reducing maternal viral load and the efficacy of HCQ to prevent incident SARS-CoV-2 infection. </br>
+
+Pregnant women of any gestational age, parity and age, undergoing pre-natal follow up at four maternity hospitals (2 in Barcelona and 2 in Madrid) with a positive PCR test, with our without symptoms of COVID-19 diseases, or who are contacts of a confirmed or suspected case and tested negative in the PCR test, will be recruited and randomised 1:1 to receive HCQ orally (400 mg/day for 3 days, followed by 200 mg/day for 11 days) or placebo. Women will be followed up for the duration of the intervention when PCR tests for SARS-CoV-2 will be repeated, and up to delivery, when the pregnancy outcome will be registered, a cord blood sample and a neonatal throat swab will be collected after birth to be tested for SARS-CoV-2.</br>
 
 **Role**: Co-investigator and project manager</br>
 **Dates**: 2020-2021</br>
@@ -47,4 +51,4 @@ It is unclear how SARS-CoV-2 affects pregnant women and their offspring, as well
 **Coordinator**: Barcelona Institute for Global Health (ISGlobal)</br>
 **Principal investigator**: Clara Menéndez</br>
 **Partners**: Hospital Clínic de Barcelona, Hospital de Sant Pau, HM Puerta del Sur and Hospital de Torrejón</br>
-**Project page**: https://www.isglobal.org/ca/-/covid-preg
+**Project's page**: https://www.isglobal.org/ca/-/covid-preg

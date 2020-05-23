@@ -59,4 +59,4 @@ The evaluation of the intervention will be based on the measurement across time 
 **Project director**: Elaine Roman</br>
 **Principal investigator of the research component**: Clara Menéndez</br>
 **Other partners**: Medicines for Malaria Venture (MMV) and World Health Organization (WHO)</br>
-**Project page**: https://www.tiptopmalaria.org
+**Project's page**: https://www.tiptopmalaria.org

@@ -51,4 +51,4 @@ It is expected to determine if being adolescent and HIV-infected increases the p
 **Dates**: 2019-2021</br>
 **Funded by**: Fundación Dexeus Mujer</br>
 **Principal investigator**: Raquel González</br>
-**Page of the scholarship**: https://campus.dexeus.com/quienes-somos/fundacion-dexeus/becas-y-premio-fundacion-dexeus-salud-de-la-mujer/becas-fundacion-dexeus
+**Scholarship's page**: https://campus.dexeus.com/quienes-somos/fundacion-dexeus/becas-y-premio-fundacion-dexeus-salud-de-la-mujer/becas-fundacion-dexeus

@@ -39,9 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Malaria infection during pregnancy is an important driver of maternal and neonatal health especially among HIV-infected women. In Africa, at least one million pregnancies are co-infected with malaria and HIV annually. The interaction between the two infections is particularly deleterious in pregnancy, leading to increased risk of malaria and HIV viral load, which may increase the frequency of mother to child transmission of HIV (MTCT-HIV). Intermittent preventive treatment in pregnancy (IPTp) with sulphadoxine-pyrimethamine (SP) is recommended for malaria prevention in HIV-uninfected women but it is contraindicated in those HIV-infected on cotrimoxazole prophylaxis (CTXp) due to potential adverse effects.</br>
-</br>
-A recent trial showed that an effective antimalarial added to CTXp and long-lasting insecticide treated nets (LLITNs) in HIV-infected pregnant women improves malaria prevention and maternal health. However, the antimalarial used –mefloquine- was not well tolerated and it was associated with an increase in HIV viral load at delivery and a two-fold increased risk of MTCT-HIV. These findings highlight the need to find alternative drugs with better tolerability and safety profile to prevent malaria in this vulnerable group and to further study the pharmacological interactions between antimalarials and antiretrovirals (ARVs)</br>
+Malaria infection during pregnancy is an important driver of maternal and neonatal health especially among HIV-infected women. In Africa, at least one million pregnancies are co-infected with malaria and HIV annually. Intermittent preventive treatment in pregnancy (IPTp) with sulphadoxine-pyrimethamine (SP) is recommended for malaria prevention in HIV-uninfected women but it is contraindicated in those HIV-infected on cotrimoxazole prophylaxis (CTXp) due to potential adverse effects. </br>
+
+This is a randomized double blind placebo-controlled trial to evaluate the safety and efficacy of DHA-PPQ for IPTp in HIV-infected pregnant women (n=664) receiving CTXp and ARV drugs and using LLITNs in Mozambique and Gabon where malaria and HIV infection are moderate to highly prevalent. In addition, the possibility for a PK interaction between DHA-PPQ and ARV drugs is being assessed in a sub-sample of participants. Women receive ARV therapy according to national guidelines and their infants will be followed until one year of age
+to evaluate the impact of DHA-PPQ on mother-to-child transmission of HIV.</br>
 </br>
 **Role**: co-investigator</br>
 **Dates**: 2018-2023</br>
@@ -49,4 +50,4 @@ A recent trial showed that an effective antimalarial added to CTXp and long-last
 **Principal investigator**: Clara Menéndez</br>
 **Coordinator**: Barcelona Institute for Global Health (ISGlobal)</br>
 **Partners**: Medizinische Universität Wein, Bernhard Nocht Institute for Tropical Medicine, Eberhard Karls Universität Tübingen, Medicines for Malaria Venture (MMV), Centro de Investigação em Saúde de Manhiça (CISM) and Centre de Recherches Médicales de Lambaréné (CERMEL)</br>
-**Project page**: https://www.mamahproject.net
+**Project's page**: https://www.mamahproject.net
