@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "COVID-Preg: hydroxychloroqui- ne efficacy and safety in preventing SARS-CoV-2 infection and COVID-19 disease severity during pregnancy"
+title: "COVID-Preg: Hydroxychloroquine efficacy and safety in preventing SARS-CoV-2 infection and COVID-19 disease severity during pregnancy"
 summary: "Randomized, double-blinded, placebo-controlled multicenter trial."
 authors: []
 tags: [COVID-19, maternal health, treatment, preventive medicine, clinical trials]
