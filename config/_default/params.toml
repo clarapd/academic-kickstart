@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "forest"
+theme = "my-theme"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Epidemiologist and predoctoral researcher"
 
 ############################
 ## Site Features
@@ -175,7 +175,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Available address formats.
 [address_formats]
@@ -216,7 +216,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = true, docs = false, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]

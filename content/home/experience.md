@@ -32,6 +32,8 @@ date_format = "Jan 2006"
     * Creating graphs and tables to help data interpretation
 
     """
+
+    
   [[experience]]
     title = "Research technician"
     company = "ISGlobal"
