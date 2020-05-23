@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Inequalities"
-summary: ""
+title: "Inequalities in women's and girls' health opportunities and outcomes"
+summary: "A project of ISGlobal and the World Bank that uses a new metric to quantify inequalities in the coverage of the right to health among sub-Saharan women."
 authors: []
 tags: []
-categories: []
-date: 2020-05-23T17:06:39+02:00
+categories: [inequalities, equity, maternal health, reproductive health]
+date: 2015-11-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,8 +16,8 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Smart"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,3 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+**Role**: Lead Researcher </br>
+**Dates**: 2015-2017 </br>
+**Self-funded by**: Barcelona Institute for Global Health (ISGlobal) and the World Bank</br>
+**Principal investigator**: Clara Menéndez</br>
+**Page of the main results**: https://www.isglobal.org/en/epidemia-desigualdad</br>
+**Journal article**: http://jogh.org/documents/issue201901/jogh-09-010410.pdf

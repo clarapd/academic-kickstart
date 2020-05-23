@@ -52,6 +52,7 @@ future actions in each country, in an effort to expand the intervention over the
 The evaluation of the intervention will be based on the measurement across time of the coverage of IPTp through household surveys, anthropological studies on the acceptability of the intervention, and a cost-effectiveness analysis. </br>
 </br>
 **Role**: Junior epidemiologist</br>
+**Dates**: 2017-2022</br>
 **Funded by**: UNITAID</br>
 **Implementation partner**: Jhpiego</br>
 **Research partner**: Barcelona Institute for Global Health (ISGlobal)</br>

@@ -4,7 +4,7 @@
 title: "MAMAH: Improving maternal and infant health by reducing malaria risks in African women"
 summary: "Evaluating the safety and efficacy of dihydroartemisinin-piperaquine for intermittent preventive treatment of malaria in HIV-infected pregnant women."
 authors: []
-tags: []
+tags: [malaria in pregnancy, malaria prevention, HIV-infection, clinical trials]
 categories: []
 date: 2018-03-01
 
@@ -44,6 +44,7 @@ Malaria infection during pregnancy is an important driver of maternal and neonat
 A recent trial showed that an effective antimalarial added to CTXp and long-lasting insecticide treated nets (LLITNs) in HIV-infected pregnant women improves malaria prevention and maternal health. However, the antimalarial used –mefloquine- was not well tolerated and it was associated with an increase in HIV viral load at delivery and a two-fold increased risk of MTCT-HIV. These findings highlight the need to find alternative drugs with better tolerability and safety profile to prevent malaria in this vulnerable group and to further study the pharmacological interactions between antimalarials and antiretrovirals (ARVs)</br>
 </br>
 **Role**: co-investigator</br>
+**Dates**: 2018-2023</br>
 **Funded by**: EDCTP</br>
 **Principal investigator**: Clara Menéndez</br>
 **Coordinator**: Barcelona Institute for Global Health (ISGlobal)</br>
